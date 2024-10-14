@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/first" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/first/Spring-and-springboot-practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mylastscracthprac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/second-myprac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springtest1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/untitled" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/usingconfig" vcs="Git" />
+=======
     <mapping directory="$PROJECT_DIR$/first" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/second-myprac" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/untitled" vcs="Git" />
+>>>>>>> bbbe298cc471bda8b0d04a15e24d96e095383c2d
   </component>
 </project>
