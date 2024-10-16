@@ -9,5 +9,8 @@
         <module name="springtest1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="autowired" target="23" />
+    </bytecodeTargetLevel>
   </component>
 </project>
